@@ -1,0 +1,4 @@
+﻿  3sem_lab.4.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\semaphore(17): warning STL4038: The contents of <semaphore> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\barrier(17): warning STL4038: The contents of <barrier> are available only with C++20 or later.
+  3sem_lab.4.vcxproj -> E:\source\repos\3sem_lab.4\x64\Debug\3sem_lab.4.exe
